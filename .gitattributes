@@ -1,0 +1,13 @@
+# All files are checked into the repo with LF
+* text=auto
+
+# These files are checked out using LF locally. If you wanted to convert to native irrespective of lf or crlf (*.js text) 
+*.js eol=lf
+*.ts eol=lf
+*.tsx eol=lf
+
+*.class binary
+*.jar binary
+*.gif binary
+*.jpg binary
+*.png binary
